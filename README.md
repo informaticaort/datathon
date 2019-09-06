@@ -4,8 +4,8 @@ Repositorio para archivos relacionados a la experiencia Datathon
 ## Primeros pasos en Python
 
 ### Objetivos
-1. Presentar el entorno de trabajo: Jupyter Notebooks, en este caso, en Colaboratory.
-2. Mediante la introducción de algunos elementos nativos de Python, brindar ejemplos de programación orientada a objetos, con clases pre-definidas que, conforme sus propiedades, denotan métodos característicos.
+1. Presentar el entorno de trabajo: Jupyter Notebook, corriendo sobre Python.
+2. Mediante la introducción de algunos elementos nativos de Python, brindar ejemplos de programación basados en datos básicos, pudiendo relacionar los diferentes conceptos lógicos. 
 3. Introducir la lógica de los iteradores y mecanismos de excepción.
 
 ### Secciones
@@ -39,4 +39,10 @@ Información correspondiente a la Campaña de Promoción “Hoy también elegís
 
 
 ## Material de consulta
-* [stack overflow](https://stackoverflow.com/)
+* [Artículos del Campus sobre Python](https://campus.almagro.ort.edu.ar/musicaydatos/articulos/1078892/categoria/116651/1)
+* [Más documentación de Python](https://campus.almagro.ort.edu.ar/musicaydatos/articulos/1078892/categoria/115929/1)
+* [Curso en Google Drive de Python](https://drive.google.com/open?id=1bEgTN_cSBBns8K9kF5v9tmKJhh9D9Ets)
+* [Web Oficial de Python](https://www.python.org/)
+* [Web Oficial de Python Argentina](https://www.python.org.ar/)
+* [Web Oficial de Pandas](https://pandas.pydata.org/)
+* [Stack Overflow (nunca falla...)](https://stackoverflow.com/)
