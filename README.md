@@ -1,4 +1,4 @@
-# extra-datathon
+# Datathon!
 Repositorio para archivos relacionados a la experiencia Datathon
 
 ## Primeros pasos en Python
@@ -39,10 +39,10 @@ Información correspondiente a la Campaña de Promoción “Hoy también elegís
 
 
 ## Material de consulta
-* [Artículos del Campus sobre Python](https://campus.almagro.ort.edu.ar/musicaydatos/articulos/1078892/categoria/116651/1)
-* [Más documentación de Python](https://campus.almagro.ort.edu.ar/musicaydatos/articulos/1078892/categoria/115929/1)
-* [Curso en Google Drive de Python](https://drive.google.com/open?id=1bEgTN_cSBBns8K9kF5v9tmKJhh9D9Ets)
-* [Web Oficial de Python](https://www.python.org/)
-* [Web Oficial de Python Argentina](https://www.python.org.ar/)
-* [Web Oficial de Pandas](https://pandas.pydata.org/)
-* [Stack Overflow (nunca falla...)](https://stackoverflow.com/)
+* [Artículos del Campus sobre Python](https://campus.almagro.ort.edu.ar/musicaydatos/articulos/1078892/categoria/116651/1){:target="_blank"}
+* [Más documentación de Python](https://campus.almagro.ort.edu.ar/musicaydatos/articulos/1078892/categoria/115929/1){:target="_blank"}
+* [Curso en Google Drive de Python](https://drive.google.com/open?id=1bEgTN_cSBBns8K9kF5v9tmKJhh9D9Ets){:target="_blank"}
+* [Web Oficial de Python](https://www.python.org/){:target="_blank"}
+* [Web Oficial de Python Argentina](https://www.python.org.ar/){:target="_blank"}
+* [Web Oficial de Pandas](https://pandas.pydata.org/){:target="_blank"}
+* [Stack Overflow (nunca falla...)](https://stackoverflow.com/){:target="_blank"}
