@@ -38,11 +38,13 @@ Información correspondiente a la Campaña de Promoción “Hoy también elegís
 2. *Establecimentos - Elecciones 2017*: ubicación de los establecimientos autorizados para las Elecciones Legislativas de Octubre 2017.
 
 
-## Material de consulta
-* [Artículos del Campus sobre Python](https://campus.almagro.ort.edu.ar/musicaydatos/articulos/1078892/categoria/116651/1)
+## Material de referencia y consulta
+* [Descarga Python](https://campus.almagro.ort.edu.ar/musicaydatos/descargar/repositorioarchivo/1081804/)
+* [Artículos del Campus Virtual ORT sobre Python](https://campus.almagro.ort.edu.ar/musicaydatos/articulos/1078892/categoria/116651/1)
 * [Más documentación de Python](https://campus.almagro.ort.edu.ar/musicaydatos/articulos/1078892/categoria/115929/1)
 * [Curso en Google Drive de Python](https://drive.google.com/open?id=1bEgTN_cSBBns8K9kF5v9tmKJhh9D9Ets)
 * [Web Oficial de Python](https://www.python.org/)
 * [Web Oficial de Python Argentina](https://www.python.org.ar/)
 * [Web Oficial de Pandas](https://pandas.pydata.org/)
+* [Web Oficial de Jupyter](https://jupyter.org/)
 * [Stack Overflow (nunca falla...)](https://stackoverflow.com/)
