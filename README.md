@@ -1,7 +1,7 @@
 # Datathon!
 Repositorio para archivos relacionados a la experiencia Datathon
 
-## Primeros pasos en Python
+## 00 - Primeros pasos en Python
 
 ### Objetivos
 1. Presentar el entorno de trabajo: Jupyter Notebook, corriendo sobre Python.
@@ -21,7 +21,7 @@ Temas transversales
 * Excepciones (condiciones validadas con booleanos)
 
 
-## Análisis exploratorio de datos (EDA)
+## 01 - Análisis exploratorio de datos (EDA)
 
 ### Objetivos
 1. Presentar las principales librerías de Python para análisis exploratorio de datos y recursos visuales (Pandas, NumPy, SciPy, Seaborn).
@@ -37,6 +37,8 @@ Información correspondiente a la Campaña de Promoción “Hoy también elegís
 
 2. *Establecimentos - Elecciones 2017*: ubicación de los establecimientos autorizados para las Elecciones Legislativas de Octubre 2017.
 
+## Ejercicios de Práctica!!
+En la carpeta "prácticas" vas a encontrar ejercicios para completar con lo aprendido en los encuentros!
 
 ## Material de referencia y consulta
 * [Descarga Python](https://campus.almagro.ort.edu.ar/musicaydatos/descargar/repositorioarchivo/1081804/)
@@ -47,4 +49,5 @@ Información correspondiente a la Campaña de Promoción “Hoy también elegís
 * [Web Oficial de Python Argentina](https://www.python.org.ar/)
 * [Web Oficial de Pandas](https://pandas.pydata.org/)
 * [Web Oficial de Jupyter](https://jupyter.org/)
+* [Kaggle (Repositorio de Datasets](https://kaggle.com/)
 * [Stack Overflow (nunca falla...)](https://stackoverflow.com/)
