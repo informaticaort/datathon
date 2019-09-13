@@ -49,5 +49,5 @@ En la carpeta "prácticas" vas a encontrar ejercicios para completar con lo apre
 * [Web Oficial de Python Argentina](https://www.python.org.ar/)
 * [Web Oficial de Pandas](https://pandas.pydata.org/)
 * [Web Oficial de Jupyter](https://jupyter.org/)
-* [Kaggle (Repositorio de Datasets](https://kaggle.com/)
+* [Kaggle (Repositorio de Datasets)](https://kaggle.com/)
 * [Stack Overflow (nunca falla...)](https://stackoverflow.com/)
