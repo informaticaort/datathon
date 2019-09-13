@@ -37,6 +37,9 @@ Información correspondiente a la Campaña de Promoción “Hoy también elegís
 
 2. *Establecimentos - Elecciones 2017*: ubicación de los establecimientos autorizados para las Elecciones Legislativas de Octubre 2017.
 
+## 02 - Complemento Pyplot - Pandas
+Un Notebook en el cual encontrarás cómo utilizar Pyplot para graficar, y alguna otra funcionalidad de Pandas
+
 ## Ejercicios de Práctica!!
 En la carpeta "prácticas" vas a encontrar ejercicios para completar con lo aprendido en los encuentros!
 
