@@ -43,6 +43,12 @@ Un Notebook en el cual encontrarás cómo utilizar Pyplot para graficar, y algun
 ## Ejercicios de Práctica!!
 En la carpeta "prácticas" vas a encontrar ejercicios para completar con lo aprendido en los encuentros!
 
+## Otras opciones para ejecutar Notebooks sin depender de una instalación de Python en tu PC 
+
+[Jupyter Notebook Online](https://jupyter.org/try) -> Eligiendo la opción de Classic Notebook con IPython
+
+[Google Colaboratory](https://colab.research.google.com) -> Cambia el método para subir datasets al Notebook
+
 ## Material de referencia y consulta
 * [Descarga Python](https://campus.almagro.ort.edu.ar/musicaydatos/descargar/repositorioarchivo/1081804/)
 * [Artículos del Campus Virtual ORT sobre Python](https://campus.almagro.ort.edu.ar/musicaydatos/articulos/1078892/categoria/116651/1)
