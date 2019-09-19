@@ -52,7 +52,7 @@ En la carpeta "prácticas" vas a encontrar ejercicios para completar con lo apre
 Para cargar archivos (por ejemplo datasets, archivos .csv) desde Colab, escribimos estas dos líneas
 
 `url = 'https://raw.githubusercontent.com/informaticaort/extra-datathon/master/datasets/titanic.csv'`
-`df1 = pd.read_csv(url,error_bad_lines=False`
+`df1 = pd.read_csv(url,error_bad_lines=False)`
 
 ## Material de referencia y consulta
 * [Descarga Python](https://campus.almagro.ort.edu.ar/musicaydatos/descargar/repositorioarchivo/1081804/)
